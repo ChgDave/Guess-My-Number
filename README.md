@@ -24,7 +24,7 @@ Also the highest score will be displayed as well in the highscore field to show 
 
 See the attached screenshot for usage.
 
-![Game console](assets/screenshot.png)
+![Game console](assets/Screenshot.png)
 
 ## Credits
 
