@@ -62,7 +62,7 @@ document.querySelector(".check").addEventListener("click", function () {
     document.querySelector("body").style.backgroundColor = "#60b347";
     document.querySelector(".number").style.width = "40rem";
     // document.getElementById("Image").src = "./assets/BroskiBaby.jpg";
-    document.querySelector(".picture").src = "./assets/BroskiBaby.jpg";
+    document.querySelector(".picture").src = "./assets/BroskiBaby.jpeg";
     highscore = score > highscore ? score : highscore;
     document.querySelector(".highscore").textContent = highscore;
     //check if input value is different secret number
